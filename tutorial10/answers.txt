@@ -1,0 +1,3 @@
+1. A join is combining two or more tables' information.
+	It's useful because most relational databases leverage their relationships to not store all of the information in one place. By joining, you can view the data in a way that's useful to people while storing it in a way that's useful for computers
+2. The data isn't stored that way because multiple posts can exist with one user. It's redundant to have each user's info in each row, as well as difficult to update if something changes.
